@@ -6,8 +6,8 @@ export const RemoveDuplicatesDisplay = ({numberList} : {numberList: number[]})=>
             list with all the duplicates removed*/
     const removeDuplicates : (numList:number[])=>number[] = 
 
-    //Todo: implement useRemoveDuplicates in the use-remove-duplicates.ts file 
-    const {numListWithNoDuplicates} = useRemoveDuplicates(removeDuplicates, numberList);
+    //Todo: implement useRemoveDuplicates in the use-remove-duplicates.ts file and call it here
+    const {numListWithNoDuplicates} = 
 
     return (
         <ul>

@@ -10,6 +10,8 @@
 
 - The function should filter out duplicate items and return the remaining items
 
+- Don't change any of the existing code
+
 ## Install and setup
 
 - First clone or download the repo
